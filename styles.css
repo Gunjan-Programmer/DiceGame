@@ -61,7 +61,6 @@ h1{
 @media (min-width:481px) and (max-width: 1200px) {
   body{
     
-/*     background-color: rgb(170, 109, 85);  */
     height: 100vh;
   
   }
@@ -103,10 +102,7 @@ h1{
   
 }
 @media (min-width:1201px) and (max-width:1600px) {
-  body{
-    
-/*     background-color: rgb(23, 103, 99);  */
-  }
+
   .container{
     width: 100vw;
   }
@@ -119,9 +115,3 @@ h1{
 
 
 
-/* @media (min-width:1601px) {
-  body{
-    
-    background-color: rgb(154, 17, 92); 
-  }
-} */
